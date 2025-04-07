@@ -1,0 +1,206 @@
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[27-Nov-2024 16:38:56 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[29-Nov-2024 06:54:48 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[29-Nov-2024 14:25:30 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[01-Dec-2024 07:01:01 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 587
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 592
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 597
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 602
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 606
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 610
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 614
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 618
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 622
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 649
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 654
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 659
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 664
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 669
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 671
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 677
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 683
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 693
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 705
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 710
+[01-Dec-2024 07:05:23 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/search/search.php on line 715

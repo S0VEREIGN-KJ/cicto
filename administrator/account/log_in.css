@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #f4f4f4;
+    position: relative;
+    overflow: hidden;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('body.jpg') no-repeat center center/cover; /* Adjust 'background.jpg' to your image */
+    filter: blur(8px);
+    z-index: -2;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+    
+}
+
+header {
+    background-color: transparent;
+    color: rgb(63, 202, 13);
+    text-align: center;
+    align-items: center;
+    font-size: 1em;
+}
+
+header img {
+    max-width: 300px; /* Adjust the width as needed */
+    margin-bottom: 0.5em;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    z-index: 1;
+}
+
+.login-container {
+    background-color: rgba(255, 255, 255, 0);
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.login-container h2 {
+    margin-bottom: 1em;
+    text-align: center;
+    color: #83f289;
+}
+
+.login-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5em;
+    background: white;
+}
+
+.input-group svg.size-6 {
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 0.5em;
+    color: #666;
+}
+
+.input-group i {
+    margin-right: 0.5em;
+    color: #666;
+}
+
+.input-group input {
+    border: none;
+    outline: none;
+    flex: 1;
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+.login-container button {
+      pointer-events: auto !important;
+    padding: 0.8em;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-container button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer .create-account-btn {
+    margin-top: 10em;
+    padding: 0.5em 15.5em;
+    border-radius: 50px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+footer .create-account-btn:hover {
+    background-color: #45a049;
+}

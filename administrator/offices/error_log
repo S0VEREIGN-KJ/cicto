@@ -1,0 +1,48 @@
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 566
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 566
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 571
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 571
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 576
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 576
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 581
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 581
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 585
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 585
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 589
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 589
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 593
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 593
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 597
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 597
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 601
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 601
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 628
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 633
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 638
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 643
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 687
+[07-Jan-2025 08:20:49 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 692
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 566
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 566
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 571
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 571
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 576
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 576
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 581
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 581
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 585
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 585
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 589
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 589
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 593
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 593
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 597
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 597
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 601
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 601
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 628
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 633
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 638
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 643
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 687
+[07-Jan-2025 08:20:58 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/offices/office_ticket.php on line 692

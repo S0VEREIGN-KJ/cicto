@@ -1,0 +1,198 @@
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 670
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 672
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 678
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 684
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 694
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 706
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[27-Nov-2024 16:40:12 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 670
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 672
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 678
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 684
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 694
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 706
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[27-Nov-2024 17:10:04 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 670
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 672
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 678
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 684
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 694
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 706
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[27-Nov-2024 17:11:02 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[29-Nov-2024 06:54:30 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 670
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 672
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 678
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 684
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 694
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 706
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[02-Dec-2024 08:09:06 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 670
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 672
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 678
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 684
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 694
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 706
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[06-Jan-2025 03:20:34 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 588
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 593
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 598
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 603
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 607
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 611
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 615
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 619
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 623
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 650
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 655
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 660
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 665
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 711
+[07-Jan-2025 08:53:26 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/repaired/repaired.php on line 716

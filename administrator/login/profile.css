@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body is at least as tall as the viewport */
+    background: #f4f4f4;
+    position: relative;
+    overflow: auto; /* Allow scrolling on the body */
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('body.jpg') no-repeat center center/cover; /* Adjust 'background.jpg' to your image */
+    filter: blur(8px);
+    z-index: -2;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+header {
+    width: 100%;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+}
+
+.slider {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slider img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.slider img.active {
+    opacity: 1;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    position: relative;
+    z-index: 0;
+    overflow-x: auto; /* Enable vertical scrolling */
+    width: 100%;
+}
+
+.profile-container {
+    background-color: rgba(255, 255, 255, 0.446);
+    padding: 11em;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.profile-container .profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-bottom: 1em;
+}
+
+.profile-container h2 {
+    margin-bottom: 1em;
+    color: #333;
+}
+
+.icon-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 3em; /* Space between icons */
+}
+
+.icon-container .icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.icon-container .icon img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0.5em;
+}
+
+.icon-container .icon span {
+    color: #333;
+    font-size: 0.9em;
+}
+.logout-btn {
+    padding: 0.8em 1.5em;
+    border: none;
+    border-radius: 25px;
+    background-color: #e74c3c; /* Red color for the button */
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1em; /* Space above the button */
+}
+
+.logout-btn:hover {
+    background-color: #c0392b; /* Darker red for hover effect */
+}
+
+footer {
+    background-color: transparent;
+    color: rgb(41, 241, 15);
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+}
+
+footer .footer-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+footer .footer-icon img {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 0.5em;
+}
+
+footer .footer-icon span {
+    color: #00c217;
+    font-size: 0.8em;
+}

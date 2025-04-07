@@ -1,0 +1,480 @@
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[27-Nov-2024 06:32:13 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[27-Nov-2024 06:33:04 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[27-Nov-2024 18:24:19 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[27-Nov-2024 18:25:02 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[28-Nov-2024 03:07:56 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 05:23:03 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 05:23:43 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 05:24:25 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 06:32:06 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 06:32:24 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 06:32:39 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 06:33:59 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[29-Nov-2024 06:35:23 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[06-Jan-2025 03:20:40 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[07-Jan-2025 07:53:52 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 585
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 590
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 595
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 600
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 604
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 608
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 612
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 616
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 620
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 647
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 652
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 657
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 662
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 667
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 669
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 675
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 681
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 691
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 703
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 708
+[07-Jan-2025 08:53:23 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/scheduling/scheduling.php on line 713

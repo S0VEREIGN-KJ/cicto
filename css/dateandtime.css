@@ -1,0 +1,72 @@
+/* -------------------------------------------------- Style the date and time */
+#time-date {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+
+#clock {
+    margin-right: 100px;
+    font-size: 28px;
+    font-weight: bold;
+    border: 6px solid #333;
+    border-radius: 50%;
+    padding: 15px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Adds a shadow for a 3D effect */
+}
+
+/* Add the clock hands */
+#clock .hour, #clock .minute, #clock .second {
+    position: absolute;
+    bottom: 50%; /* Position hands from the center */
+    left: 50%;
+    transform-origin: bottom center;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+#clock .hour {
+    width: 6px;
+    height: 30px;
+    transform: translateX(-50%) rotate(90deg); /* Rotate to represent hour */
+}
+
+#clock .minute {
+    width: 4px;
+    height: 40px;
+    transform: translateX(-50%) rotate(180deg); /* Rotate to represent minute */
+}
+
+#clock .second {
+    width: 2px;
+    height: 50px;
+    transform: translateX(-50%) rotate(270deg); /* Rotate to represent second */
+    background-color: red; /* Red for second hand */
+}
+
+#calendar {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 8px 16px;
+    border: 3px solid #333;
+    width: 140px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Shadow effect for calendar */
+}

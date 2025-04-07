@@ -1,0 +1,43 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.container {
+  position: relative;
+  height: 100%;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  z-index: 1;
+  height:100px;
+}
+
+.content {
+  
+  padding-top: 100px; /* adjust according to header and nav-bar height */
+  height: 100%;
+  overflow-y: auto;
+}
+
+.main-body {
+  margin-top: 100px;
+  margin-left: 400px; /* adjust according to dashboard width */
+  padding: 10px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+  z-index: 1;
+}

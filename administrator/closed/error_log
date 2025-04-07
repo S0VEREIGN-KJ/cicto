@@ -1,0 +1,210 @@
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 673
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 675
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 681
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 687
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 697
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 708
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[27-Nov-2024 16:32:36 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 673
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 675
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 681
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 687
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 697
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 708
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[27-Nov-2024 16:40:03 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 673
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 675
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 681
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 687
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 697
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 708
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[28-Nov-2024 03:07:24 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[29-Nov-2024 06:54:39 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[07-Jan-2025 08:53:16 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[07-Jan-2025 08:53:24 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[07-Jan-2025 09:11:15 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 591
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 596
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 601
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 606
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 610
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 614
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 618
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 622
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 626
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 653
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 658
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 663
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 668
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 713
+[07-Jan-2025 09:11:22 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/cicto/administrator/closed/closed.php on line 718
