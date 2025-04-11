@@ -7,14 +7,17 @@ if (isset($_GET['ticket_number'])) {
     $ticket_number = $_GET['ticket_number'];
 
     // Prepare SQL query to select data based on ticket_number
-    $stmt = $conn->prepare("SELECT serial_number, unit, category, office, COUNT(serial_number) AS ticket_count
-                            FROM ticket
-                            WHERE serial_number = ?
-                            GROUP BY serial_number, unit, category, office");
+    $stmt = $conn->prepare("
+        SELECT serial_number, unit, category, office, 
+               COUNT(serial_number) AS ticket_count
+        FROM ticket
+        WHERE serial_number = ?
+        GROUP BY serial_number
+    ");
 
     // Bind ticket_number to the prepared statement
     $stmt->bind_param("s", $ticket_number);
-    
+
     // Execute the query
     $stmt->execute();
     $result = $stmt->get_result();

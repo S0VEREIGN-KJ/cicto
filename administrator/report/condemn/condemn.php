@@ -1,6 +1,8 @@
 <?php 
 include ('../../login/check_admin.php');
+include 'ticket_functions.php';
 
+$result = getTicketSummary($conn);
 
 if (isset($_GET['url'])) {
   $url = $_GET['url'];
@@ -443,60 +445,48 @@ input, select {
     </button>
 </a>
 
+<!-- Search Form -->
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="get" class="search-form" autocomplete="off">
-  <input type="text" name="search_input" placeholder="Search...">
-  <input type="submit" value="Search">
+    <input type="text" name="ticket_number" placeholder="Search by Ticket Number" value="<?php echo isset($_GET['serial_number']) ? htmlspecialchars($_GET['serial_number']) : ''; ?>">
+    <input type="submit" value="Search">
 </form>
 
   <!--TABLE TICKETS SUMMARY-->
   <div style=" margin-left: 100px; text-align: center;margin-bottom: 50px;margin-right: -100px; margin-top: 25px;">   <!--FULL TABLE CSS-->
-  <?php
-$conn = mysqli_connect($servername, $username, $password, $db_name);
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-
-$search_query = "
-    SELECT serial_number, unit, category, office, COUNT(DISTINCT serial_number) AS ticket_count
-    FROM ticket
-    WHERE status != 'Pending'
-    GROUP BY unit, category, office
-";
-
-$stmt = $conn->prepare($search_query);
-$stmt->execute();
-$result = $stmt->get_result();
-
-
-?>
 
 
 <table border="3" style="border-collapse: collapse;width: 80%;font-size: 18px; line-height: 24px; margin: 0 auto; margin-left: 170px;">
   <tr>
     <th>Serial #</th>
-    <th>Number of Tickets</th>
     <th>Device Type</th>
     <th>Category</th>
     <th>Office</th>
-    <th>View/Print</th>
+    <th>Create Condemn</th>
   </tr>
 
   <?php
-  if ($result->num_rows > 0) {
-    while($row = $result->fetch_assoc()) {
-      echo "<tr>";
-      echo "<td>" . htmlspecialchars($row["serial_number"]) . "</td>";
-      echo "<td>" . $row["ticket_count"] . "</td>";
-      echo "<td>" . htmlspecialchars($row["unit"]) . "</td>";
-      echo "<td>" . htmlspecialchars($row["category"]) . "</td>";
-      echo "<td>" . htmlspecialchars($row["office"]) . "</td>";
-      echo '<td><a href="#" onclick="openNav(\'' . htmlspecialchars($row["serial_number"]) . '\')">View/Print</a></td>';
-      echo "</tr>";
-    }
-  } else {
-    echo "<tr><td colspan='6'>No data found</td></tr>";
-  }
-  ?>
+        // Get the ticket_number from the search form (if provided)
+        $ticket_number = isset($_GET['ticket_number']) ? $_GET['ticket_number'] : '';
+
+        // Fetch the results from the getTicketSummary function
+        $result = getTicketSummary($conn, $ticket_number);
+
+        // Output data in table body
+        if ($result->num_rows > 0) {
+            while($row = $result->fetch_assoc()) {
+                echo "<tr>";
+                echo "<td>" . htmlspecialchars($row["serial_number"]) . "</td>";
+                echo "<td>" . htmlspecialchars($row["unit"]) . "</td>";
+                echo "<td>" . htmlspecialchars($row["category"]) . "</td>";
+                echo "<td>" . htmlspecialchars($row["office"]) . "</td>";
+                echo '<td><a href="#" onclick="openNav(\'' . htmlspecialchars($row["serial_number"]) . '\')">Create</a></td>';
+                echo "</tr>";
+            }
+        } else {
+            echo "<tr><td colspan='5'>No data found</td></tr>";
+        }
+        ?>
+
 </table>
         </table>
         </div></div>
@@ -531,11 +521,6 @@ $result = $stmt->get_result();
 </div>
 
 <div class="overlay_form_group">
-    <label for="unit_description">Device Description:</label>
-    <input type="text" id="unit_description" name="unit_description" value="" required> <!-- unit description -->
-</div>
-
-<div class="overlay_form_group">
     <label for="unit">Device Type:</label>
     <input type="text" id="unit" name="unit" value="" readonly required>
 </div>
@@ -553,6 +538,11 @@ $result = $stmt->get_result();
 <div class="overlay_form_group">
     <label for="ticket_count">Number of Repairs/Tickets:</label>
     <input type="text" id="ticket_count" name="ticket_count" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="unit_description">Device Description:</label>
+    <input type="text" id="unit_description" name="unit_description" value="" required> <!-- unit description -->
 </div>
 
 <div class="overlay_form_group">
@@ -632,32 +622,38 @@ function openNav(ticketNumber) {
     // Fetch ticket details using AJAX
     $.ajax({
         type: 'GET',
-        url: 'fetch_report.php',  // Make sure this path is correct
+        url: 'fetch_report.php',  // Ensure this path is correct
         data: { ticket_number: ticketNumber },
         cache: false, // Prevent caching
         success: function(data) {
-            var ticketDetails = JSON.parse(data);
-            
-            if (ticketDetails.error) {
-                alert(ticketDetails.error);  // Show error message if there's an issue
-                return;
-            }
+            try {
+                var ticketDetails = JSON.parse(data);  // Parse the JSON response
+                
+                if (ticketDetails.error) {
+                    alert(ticketDetails.error);  // Show error message if there's an issue
+                    return;
+                }
 
-            // Populate form fields with fetched data
-            document.getElementById('serial_number').value = ticketDetails.serial_number;
-            document.getElementById('unit').value = ticketDetails.unit;
-            document.getElementById('category').value = ticketDetails.category;
-            document.getElementById('office').value = ticketDetails.office;
-            document.getElementById('ticket_count').value = ticketDetails.ticket_count;
+                // Populate form fields with fetched data
+                document.getElementById('serial_number').value = ticketDetails.serial_number || '';
+                document.getElementById('unit').value = ticketDetails.unit || '';
+                document.getElementById('category').value = ticketDetails.category || '';
+                document.getElementById('office').value = ticketDetails.office || '';
+                document.getElementById('ticket_count').value = ticketDetails.ticket_count || 0;
+
+            } catch (e) {
+                console.error("Error parsing the response data: ", e);
+                alert("An error occurred while processing the ticket details.");
+            }
         },
         error: function(xhr, status, error) {
             console.error('Error fetching ticket details:', error);
+            alert('Failed to fetch ticket details. Please try again later.');
         },
         complete: function() {
             console.log('AJAX request complete!');
         }
     });
-
 
     // Open the overlay
     document.getElementById("myNav").style.height = "100%";
