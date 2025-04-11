@@ -1,26 +1,15 @@
 <?php 
 include ('../../login/check_admin.php');
 
+
 if (isset($_GET['url'])) {
-    $url = $_GET['url'];
-    header('Location: ' . $url);
-    exit;
-}
-
-// Check if  parameter is set
-$office = isset($_GET['office']) ? $_GET['office'] : '';
-
-// Prepare the SQL query to get user account details 
-$query = "SELECT id_number, full_name, phone_number, email FROM technician WHERE deleted = 0"; // Exclude deleted accounts
-
-$result = mysqli_query($conn, $query);
-
-// Error handling
-if (!$result) {
-    die('Query failed: ' . mysqli_error($conn));
+  $url = $_GET['url'];
+  header('Location: ' . $url);
+  exit;
 }
 
 ?>
+
 
 
 <!DOCTYPE html>
@@ -53,46 +42,23 @@ if (!$result) {
 </head>
 
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script src="jQuery.js"></script>
 
-
-    <style>
-
+<style> 
 body, html {
   display: flex;
   flex-direction: column;
   height: 100%;
   margin: 0;
   font-family: Arial, sans-serif;
+  
 }
-
 .container {
   position: relative;
   height: 100%;
   
 }
-
-.input-group {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 1em;
-}
-
-.input-group label {
-    margin-bottom: 0.5em;
-    color: #666;
-}
-
-.input-group input,
-.input-group select {
-    width: 70%;
-    padding: 0.5em;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 1em;
-    color: #333;
-}
-
 .main-body {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -108,7 +74,161 @@ body, html {
   flex: 1; /* Make the content wrapper take up the remaining space */
 }
 
+/* overlay_container */ /* overlay_container */ /* overlay_container */ /* overlay_container */ /* overlay_container */ /* overlay_container */ /* overlay_container */
+  /* overlay_container */
+.overlay_container {
+    width: 100%;
+    max-width: 8.5in; /* Max width to fit half of short bond paper */
+    padding: 0.5in; /* Padding for spacing */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border: 1px solid #000;
+    margin: 0; /* Remove extra margins */
+}
+/* overlay_header */
+.overlay_header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #000;
+    padding: 5px 0; /* Reduced padding for overlay_header */
+    margin-bottom: 10px; /* Margin between overlay_header and content */
+    background-color: rgb(64, 188, 246);
+}
+.overlay_header img {
+    width: 60px;
+    height: auto;
+    margin-right: 10px; /* Space between logo and text */
+    margin-left: 10px; /* Space between logo and text */
+}
+.overlay_header h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 18pt; /* Adjust font size for overlay_header */
+    text-align: center;
+}
+/* Form Group */
+.overlay_form_group {
+    margin-bottom: 10px; /* Spacing between form groups */
+    display: flex;
+    align-items: center; /* Align items vertically centered */
+    justify-content: space-between; /* Space between label and input */
+}
+label {
+    flex: 0 0 150px; /* Set a fixed width for the label */
+    margin: 0; /* Remove extra margins */
+}
+input, select {
+    width: 100%;
+    padding: 8px; /* Increased padding inside input fields */
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+/* Custom Select with Device Image */
+.custom-select {
+    position: relative;
+    width: 100%;
+}
+.select-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px; /* Increased padding inside select box */
+    border: 1px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #fff; /* Added background for select box */
+}
+.select-box img {
+    width: 40px; /* Adjust size of the device image */
+    height: auto;
+}
+.options-overlay_container {
+    position: absolute;
+    width: calc(100% - 2px); /* Adjust to match select box width */
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: none;
+    z-index: 10;
+    top: 100%; /* Position below the select box */
+    left: 0; /* Align with left edge of select box */
+}
+.options-overlay_container.visible {
+    display: block;
+}
+.option {
+    display: flex;
+    align-items: center;
+    padding: 8px; /* Increased padding inside option items */
+    border-bottom: 1px solid #ddd; /* Divider between options */
+    cursor: pointer;
+}
+.option:hover {
+    background-color: #f2f2f2; /* Highlight on hover */
+}
+.option img {
+    width: 30px; /* Adjust size of option images */
+    height: auto;
+    margin-right: 10px; /* Space between image and text */
+}
+.overlay {
+  height: 0%;
+  width: 80%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 200px;
+  background-color: rgba(255, 255, 255, 0); /* Set opacity to 0 for full transparency */
+  justify-content: center;
+  display: flex;
+  overflow-y: hidden;
+  transition: 0.5s;
+}
+.overlay-content {
+  font-size: 12pt;
+  font-family: Arial, sans-serif;
+  position: relative;
+  width: 70%; /* adjust the width as needed */
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #FFFFFF;;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255,255,255,0.5);
+  max-height: 80vh; /* adjust the value to your liking */
+  overflow-y: auto;
+}
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 85px;
+  font-size: 60px;
+  color: #000000; /* or rgb(255, 0, 0) or rgba(255, 0, 0, 1) */
+  border: 2px solid #000;
+}
+@media screen and (max-height: 450px) {
+  .overlay {overflow-y: auto;}
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
 .footer {
+    margin-left: -450px;
     position: fixed; /* Position the footer absolutely */
     bottom: 0; /* Stick the footer to the bottom of the body */
     width: 100%; /* Make the footer take up the full width of the body */
@@ -118,9 +238,10 @@ body, html {
     text-align: center; /* Center the footer's text */
     padding: 10px; /* Add some padding to the footer */
     z-index: 1; /* Set the z-index to a high value */
-    font-size: 12px; /* Set the font size to 24px */
 }
-
+.footer-title {
+  font-size: 12px; /* Set the font size to 24px */
+}
 .badge.incoming{      /*  incoming tab notification   */
     background-color: #AA0000; /* change to your desired color */
     color: #fff;
@@ -132,7 +253,6 @@ body, html {
     right: 50px;
     transform: translate(50%, -50%);
 }
-
 .badge.in_progress{       /*  in progress tab notification   */
     background-color: #AA0000; /* change to your desired color */
     color: #fff;
@@ -144,7 +264,6 @@ body, html {
     right: 50px;
     transform: translate(50%, -50%);
 }
-
 .badge.scheduled{         /*  scheduled tab notification   */
     background-color: #AA0000; /* change to your desired color */
     color: #fff;
@@ -156,170 +275,8 @@ body, html {
     right: 50px;
     transform: translate(50%, -50%);
 }
-
-.user-list {
-    margin-left: 270px;
-    margin-right: 100px;
-    display: grid; /* Change to grid for better layout */
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive columns */
-    gap: 15px; /* Space between items */
-    padding: 20px; /* Padding around the user list */
-    /*border: 2px solid black; /* width, style, color */
-}
-
-.user-item {
-    background-color: #ffffff; /* White background for cards */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    padding: 15px; /* Padding inside cards */
-    text-align: center; /* Center text */
-    transition: transform 0.3s, box-shadow 0.3s; /* Animation effects */
-    border: 2px solid black; /* width, style, color */
-}
-
-.user-item:hover {
-    transform: translateY(-5px); /* Lift effect on hover */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
-    cursor: pointer;
-}
-/* Overlay container */
-#overlay {
-    position: fixed;
-    top: -100%; /* Start from above the screen */
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-    display: none;  /* Initially hidden */
-    justify-content: center;
-    align-items: center;
-    animation: slideDown 0.5s ease-out forwards; /* Animation for sliding down */
-    z-index: 1;
-}
-
-/* Overlay content box styling */
-#overlay-content {
-    background-color: white;
-    padding: 20px;
-    border-radius: 8px;
-    text-align: left;
-    max-width: 600px;
-    width: 80%;
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
-    transform: translateY(-50%);  /* Center content vertically */
-    animation: slideContentUp 0.5s ease-out forwards; /* Animation for content sliding */
-}
-
-/* Table styling */
-table {
-    width: 100%;
-    margin-top: 20px;
-    border-collapse: collapse;
-}
-
-table th, table td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-/* Table header styling */
-table th {
-    padding: 10px; /* Padding for better readability */
-    text-align: left; /* Align text to the left */
-    width: 30%; /* Set a fixed width for the columns, or adjust as needed */
-}
-
-/* Optional: For alternating row colors for better readability */
-table tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
-
-table tr:nth-child(odd) {
-    background-color: #ffffff;
-}
-
-table {
-    border-collapse: collapse; /* Ensures that the table borders do not double up */
-    width: 100%; /* Full width table */
-}
-
-table td, table th {
-    border: 1px solid #ddd; /* Light gray border for both cells and headers */
-}
-
-table td {
-    font-size: 16px;
-}
-
-button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-/* Close button for the overlay */
-#overlay .close-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: transparent;
-    border: none;
-    font-size: 20px;
-    color: #333;
-    cursor: pointer;
-}
-
-#overlay .close-btn:hover {
-    color: #007bff;
-}
-
-/* Slide-down animation for overlay */
-@keyframes slideDown {
-    0% {
-        top: -100%;
-    }
-    100% {
-        top: 0;
-    }
-}
-
-/* Slide-up animation for content */
-@keyframes slideContentUp {
-    0% {
-        transform: translateY(-50%);
-        opacity: 0;
-    }
-    100% {
-        transform: translateY(0);
-        opacity: 1;
-    }
-}
-.arrow-button {
-    font-size: 16px; /* Font size */
-    cursor: pointer; /* Pointer cursor on hover */
-    transition: background-color 0.3s; /* Transition effect */
-}
-
-.arrow-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-}
-
-.arrow-button:focus {
-    outline: none; /* Remove outline on focus */
-}
- /* Search form styling */
- .search-form {
+  /* Search form styling */
+  .search-form {
     display: flex;
   justify-content: center;
   align-items: center;
@@ -353,65 +310,66 @@ button:hover {
     background-color: #3e8e41;
   }
   
-    </style>
-</head>
+  </style> 
+
 <div style="height: 50px;">
   <?php include '../../nav-bar.php'; ?>
 </div>
 <body>
 
-   
+<div id="loadingOverlay" class="loadingOverlay">  <!--LOADING SCREEN-->
+        <div class="loader">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div> 
+    
+
 <div class="dashboard">
             <ul class="sidebar navbar-nav">
                 <h3>Dashboard</h3>               
                 <li class="nav-item active">
-        <a class="nav-link" href="../../home/home.php">
-            <span> Home / Incoming Tickets</span>
-            <span class="badge incoming">
-                <?php
-                $query_pending = "SELECT COUNT(*) AS pending FROM ticket WHERE status = 'Pending'";
-                $result_pending = mysqli_query($conn, $query_pending);
-                $row_pending = mysqli_fetch_assoc($result_pending);
-                echo $row_pending['pending'];
-                ?>
-            </span> 
-        </a>
-    </li>
+                    <a class="nav-link" href="../../home/home.php">
+                    <span> Home / Incoming Tickets</span>
+                    <span class="badge incoming">    <?php
+          $query = "SELECT COUNT(*) AS pending FROM ticket WHERE status = 'Pending'";
+          $result = mysqli_query($conn, $query);
+          $row = mysqli_fetch_assoc($result);
+          echo $row['pending'];
+        ?></span> 
+                    </a>
+                </li>
 
-    <li class="nav-item active">
-        <a class="nav-link" href="../../ticket/ticket.php">
-            <span> All Tickets</span>
-        </a>
-    </li>
+                <li class="nav-item active">
+                <a class="nav-link" href="../../ticket/ticket.php">
+                        <span> All Tickets</span>
+                    </a>
+                </li>
+    
+                <li class="nav-item active">
+                    <a class="nav-link"  href="../../in_progress/in_progress.php">
+                        <span>In Progress Tickets</span>
+                        <span class="badge in_progress">    <?php
+          $query = "SELECT COUNT(*) AS in_progress FROM ticket WHERE status = 'In Progress'";
+          $result = mysqli_query($conn, $query);
+          $row = mysqli_fetch_assoc($result);
+          echo $row['in_progress'];
+        ?></span> 
+                    </a>
+                </li>
 
-    <li class="nav-item active">
-        <a class="nav-link" href="../../in_progress/in_progress.php">
-            <span>In Progress Tickets</span>
-            <span class="badge in_progress">
-                <?php
-                $query_in_progress = "SELECT COUNT(*) AS in_progress FROM ticket WHERE status = 'In Progress'";
-                $result_in_progress = mysqli_query($conn, $query_in_progress);
-                $row_in_progress = mysqli_fetch_assoc($result_in_progress);
-                echo $row_in_progress['in_progress'];
-                ?>
-            </span> 
-        </a>
-    </li>
-
-    <li class="nav-item active">
-        <a class="nav-link" href="../../scheduling/scheduling.php">
-            <span>Scheduled Tickets</span>
-            <span class="badge scheduled">
-                <?php
-                $query_scheduled = "SELECT COUNT(*) AS scheduled FROM ticket WHERE status = 'Scheduled'";
-                $result_scheduled = mysqli_query($conn, $query_scheduled);
-                $row_scheduled = mysqli_fetch_assoc($result_scheduled);
-                echo $row_scheduled['scheduled'];
-                ?>
-            </span> 
-        </a>
-    </li>
-
+                <li class="nav-item active">
+                <a class="nav-link"  href="../../scheduling/scheduling.php">
+                        <span>Scheduled Tickets</span>
+                        <span class="badge scheduled">    <?php
+          $query = "SELECT COUNT(*) AS scheduled FROM ticket WHERE status = 'Scheduled'";
+          $result = mysqli_query($conn, $query);
+          $row = mysqli_fetch_assoc($result);
+          echo $row['scheduled'];
+        ?></span> 
+                    </a>
+                </li>
 
                 <li class="nav-item active">
                 <a class="nav-link"  href="../../repaired/repaired.php">
@@ -426,19 +384,19 @@ button:hover {
                 </li>
 
                 <li class="nav-item active">
-                <a class="nav-link"  href="../../offices/offices.php">
+                <a class="nav-link" href="../../offices/offices.php" >
                         <span>Barangays / Offices</span>
                     </a>
                 </li>
 
                 <li class="nav-item active">
-                <a class="nav-link"  href="../../search/search.php">
+                <a class="nav-link" href="../../search/search.php" >
                         <span>Search Ticket</span>
                     </a>
                 </li>
 
                 <li class="nav-item active">
-                <a class="nav-link" href="../../account/accounts.php">
+                <a class="nav-link"  href="../../account/accounts.php">
                         <span>Accounts</span>
                     </a>
                 </li>
@@ -448,13 +406,12 @@ button:hover {
                         <span>Feedback / Comments</span>
                     </a>
                 </li>
-
+                
                 <li class="nav-item active">
-                <a class="nav-link">
+                <a class="nav-link" href="../../report/report.php">
                         <span>Reports</span>
                     </a>
                 </li>
-
 
                <li class="nav-item active">
                <a class="nav-link" href="#" id="logout-link" >
@@ -470,12 +427,13 @@ button:hover {
         <button id="confirm-no">No</button>
     </div>
 </div>
-
-</ul>
+          
+            </ul>
         </div>
         <div id="content-loader"></div>
     </div>
 </div>
+
 
 <div class="content-main-body">
 
@@ -486,174 +444,270 @@ button:hover {
 </a>
 
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="get" class="search-form" autocomplete="off">
-  <input type="text" name="search_input" placeholder="Put Serial Number...">
-  <input type="submit" value="Create Condemn">
+  <input type="text" name="search_input" placeholder="Search...">
+  <input type="submit" value="Search">
 </form>
 
+  <!--TABLE TICKETS SUMMARY-->
+  <div style=" margin-left: 100px; text-align: center;margin-bottom: 50px;margin-right: -100px; margin-top: 25px;">   <!--FULL TABLE CSS-->
+  <?php
+$conn = mysqli_connect($servername, $username, $password, $db_name);
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+$search_query = "
+    SELECT serial_number, unit, category, office, COUNT(DISTINCT serial_number) AS ticket_count
+    FROM ticket
+    WHERE status != 'Pending'
+    GROUP BY unit, category, office
+";
+
+$stmt = $conn->prepare($search_query);
+$stmt->execute();
+$result = $stmt->get_result();
+
+
+?>
+
+
+<table border="3" style="border-collapse: collapse;width: 80%;font-size: 18px; line-height: 24px; margin: 0 auto; margin-left: 170px;">
+  <tr>
+    <th>Serial #</th>
+    <th>Number of Tickets</th>
+    <th>Device Type</th>
+    <th>Category</th>
+    <th>Office</th>
+    <th>View/Print</th>
+  </tr>
+
+  <?php
+  if ($result->num_rows > 0) {
+    while($row = $result->fetch_assoc()) {
+      echo "<tr>";
+      echo "<td>" . htmlspecialchars($row["serial_number"]) . "</td>";
+      echo "<td>" . $row["ticket_count"] . "</td>";
+      echo "<td>" . htmlspecialchars($row["unit"]) . "</td>";
+      echo "<td>" . htmlspecialchars($row["category"]) . "</td>";
+      echo "<td>" . htmlspecialchars($row["office"]) . "</td>";
+      echo '<td><a href="#" onclick="openNav(\'' . htmlspecialchars($row["serial_number"]) . '\')">View/Print</a></td>';
+      echo "</tr>";
+    }
+  } else {
+    echo "<tr><td colspan='6'>No data found</td></tr>";
+  }
+  ?>
+</table>
+        </table>
+        </div></div>
+        </section>
   
+
+
+ 
+<div id="myNav" class="overlay">
+
+
+<div class="overlay-content">
+  <div class="overlay_container">
+        <!-- overlay_header with Logo -->
+        <div class="overlay_header">
+        <img src="../../images/cicto_logo.png" alt="Company Logo">
+            <h1>City Information and Communications Technology &nbsp; &nbsp;&nbsp;CERTIFICATE OF CONDEMN</h1>
+        </div>
+
+  <form action="" method="post" autocomplete="off">
+  <p>Instructions: Please fill out and check the appropriate Box</p>
+  <a href="javascript:void(0)" class="closebtn" onclick="closeOverlay()">&times;</a>  <!-- close button for overlay -->
+
+  <div class="overlay_form_group">
+    <label for="datetime_req">Date Issued</label>
+    <input type="text" id="date_today" name="date_today" value="" readonly required> <!-- date requested -->
+</div>
+
+<div class="overlay_form_group">
+    <label for="serial_number">Serial No.</label>
+    <input type="text" id="serial_number" name="serial_number" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="unit_description">Device Description:</label>
+    <input type="text" id="unit_description" name="unit_description" value="" required> <!-- unit description -->
+</div>
+
+<div class="overlay_form_group">
+    <label for="unit">Device Type:</label>
+    <input type="text" id="unit" name="unit" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="category">Category:</label>
+    <input type="text" id="category" name="category" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="office">Office</label>
+    <input type="text" id="office" name="office" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="ticket_count">Number of Repairs/Tickets:</label>
+    <input type="text" id="ticket_count" name="ticket_count" value="" readonly required>
+</div>
+
+<div class="overlay_form_group">
+    <label for="requested_by">Requested by</label>
+    <input type="text" id="requested_by" name="requested_by" value="" required> <!-- requester name -->
+</div>
+
+<div class="overlay_form_group">
+    <label for="condition_status">Condition/Status:</label>
+    <input type="text" id="condition_status" name="condition_status" value="" required> <!-- condition/status -->
+</div>
+
+<div class="overlay_form_group">
+    <label for="reason_condemnation">Reason of Condemnation:</label>
+    <input type="text" id="reason_condemnation" name="reason_condemnation" value="" required> <!-- reason for condemnation -->
+</div>
+
+<div class="overlay_form_group">
+    <label for="comment_text">Comment:</label>
+    <input type="text" id="comment_text" name="comment_text" value="" required> <!-- comment -->
+</div>
+
+    <div class="overlay_form_group">
+      <br>
+      <div style="display: right; justify-content: space-between; width: 100%; padding: 10px;">
+        
+        <button onclick="printTicket()" 
+                style="background-color: #008CBA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+          Print Condemnation
+        </button>
+  
+    </div>
+    </div>
 
 </div>
 
-<!-- JavaScript for initializing and handling Date Range Picker -->
 <script>
-function fetchTicketStats(startDate, endDate) {
-    // Retrieve technician name from overlay
-    const technicianName = document.getElementById('overlay-full-name').innerText;
-    if (!technicianName) {
-        console.error("Technician name is missing.");
-        return;
+  function printTicket() {   ///print.php
+    var ticketNumber = document.getElementById('ticket_number').value;
+    if (ticketNumber) {
+        window.open('print.php?ticket_number=' + ticketNumber, '_blank');
+    } else {
+        alert("Ticket number is missing.");
     }
-
-    // If no dates provided, get them from daterange input
-    if (!startDate || !endDate) {
-        const dateRange = document.getElementById('daterange').value.split(" to ");
-        if (dateRange.length === 2) {
-            startDate = dateRange[0];
-            endDate = dateRange[1];
-        } else {
-            console.error("Date range not properly selected.");
-            return;
-        }
-    }
-
-    // Prepare data to send in the POST request
-    const formData = new FormData();
-    formData.append("start_date", startDate);
-    formData.append("end_date", endDate);
-    formData.append("technician_name", technicianName);
-
-    // Fetch data using POST
-    fetch('fetch_report.php', {
-        method: 'POST',
-        body: formData
-    })
-    .then(response => response.json())
-    .then(ticketData => {
-        if (ticketData.error) {
-            console.error(ticketData.error);
-            return;
-        }
-        document.getElementById('overlay-total-tickets').innerText = ticketData.totalTickets;
-        document.getElementById('overlay-repaired-tickets').innerText = ticketData.repairedTickets;
-        document.getElementById('overlay-closed-tickets').innerText = ticketData.closedTickets;
-        document.getElementById('overlay-in-progress-tickets').innerText = ticketData.inProgressTickets;
-    })
-    .catch(error => console.error('Error fetching ticket statistics:', error));
 }
-$(document).ready(function() {
-    // Initialize Date Range Picker
-    $('#daterange').daterangepicker({
-        locale: { format: 'YYYY-MM-DD' }, // Keep the input format as YYYY-MM-DD
-        opens: 'center',
-        autoUpdateInput: false,
-        minDate: '2024-01-01',
-        maxDate: moment().add(10, 'years'),
-        ranges: {
-            'Today': [moment(), moment()],
-            'Last 7 Days': [moment().subtract(6, 'days'), moment()],
-            'This Month': [moment().startOf('month'), moment().endOf('month')],
-            'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')],
-            'This Year': [moment().startOf('year'), moment().endOf('year')],
-            'Last Year': [moment().subtract(1, 'year').startOf('year'), moment().subtract(1, 'year').endOf('year')]
-        }
-    });
-
-    // When a date range is applied, update both the input field and the display area
-    $('#daterange').on('apply.daterangepicker', function(ev, picker) {
-        // Get the start and end dates in the original format (YYYY-MM-DD)
-        const startDate = picker.startDate.format('YYYY-MM-DD');
-        const endDate = picker.endDate.format('YYYY-MM-DD');
-        
-        // Set the input field value with the formatted date
-        $(this).val(startDate + ' to ' + endDate);
-        
-        // Format the dates to include the full month name (e.g., "January", "February")
-        const startDateFormatted = picker.startDate.format('MMMM DD, YYYY');
-        const endDateFormatted = picker.endDate.format('MMMM DD, YYYY');
-        
-        // Update the display area with the formatted date range
-        $('#selected-daterange').text(startDateFormatted + ' to ' + endDateFormatted);
-
-        // Optionally, call fetchTicketStats with the raw date format (YYYY-MM-DD)
-        fetchTicketStats(startDate, endDate);
-
-        // Pass the formatted date range to the print function
-        window.formattedDateRange = startDateFormatted + ' to ' + endDateFormatted;
-    });
+const token = localStorage.getItem('token');
+isAuthenticated().then((response) => {
+  if (response) {
+    // User is authenticated, allow access to dashboard page
+  } else {
+    // User is not authenticated, redirect to login form page
+    window.location.replace('../login/login.php');
+  }
+}).catch((error) => {
+  console.error(error);
 });
 
 
-// Pass the full_name to the function when a user-item is clicked
-function openOverlay(id_number, full_name, phone_number, email) {
-    document.getElementById('overlay').style.display = 'flex';
-    document.getElementById('overlay-full-name').innerText = full_name;
-    document.getElementById('overlay-phone').innerText = phone_number;
-    document.getElementById('overlay-email').innerText = email;
+function loadContent(url) {      ///no cache function
+    $.ajax({
+        url: url,
+        cache: false,
+        headers: {
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
+        },
+        success: function(data) {
+            console.log('Loaded content:', data);
+            $('#content-loader').html(data);
+            window.location.hash = url;
+          
+        }
+    });
 }
 
-// Function to print the overlay content
-// Function to generate the PDF and open it in a new tab
-function generatePDF() {
-    // Get the technician details and ticket statistics from the overlay
-    var technicianName = document.getElementById('overlay-full-name').innerText;
-    var phone = document.getElementById('overlay-phone').innerText;
-    var email = document.getElementById('overlay-email').innerText;
-    var totalTickets = document.getElementById('overlay-total-tickets').innerText;
-    var repairedTickets = document.getElementById('overlay-repaired-tickets').innerText;
-    var closedTickets = document.getElementById('overlay-closed-tickets').innerText;
-    var inProgressTickets = document.getElementById('overlay-in-progress-tickets').innerText;
+function openNav(ticketNumber) {
+    // Fetch ticket details using AJAX
+    $.ajax({
+        type: 'GET',
+        url: 'fetch_report.php',  // Make sure this path is correct
+        data: { ticket_number: ticketNumber },
+        cache: false, // Prevent caching
+        success: function(data) {
+            var ticketDetails = JSON.parse(data);
+            
+            if (ticketDetails.error) {
+                alert(ticketDetails.error);  // Show error message if there's an issue
+                return;
+            }
 
-    // Use the globally stored formatted date range
-    var formattedDateRange = window.formattedDateRange;
+            // Populate form fields with fetched data
+            document.getElementById('serial_number').value = ticketDetails.serial_number;
+            document.getElementById('unit').value = ticketDetails.unit;
+            document.getElementById('category').value = ticketDetails.category;
+            document.getElementById('office').value = ticketDetails.office;
+            document.getElementById('ticket_count').value = ticketDetails.ticket_count;
+        },
+        error: function(xhr, status, error) {
+            console.error('Error fetching ticket details:', error);
+        },
+        complete: function() {
+            console.log('AJAX request complete!');
+        }
+    });
 
-    // Create a form dynamically to send the data to the server
-    var form = document.createElement('form');
-    form.method = 'POST';
-    form.action = 'print.php';  // Path to your PDF generation script
 
-    // Create hidden input fields and append them to the form
-    form.appendChild(createHiddenInput('technician_name', technicianName));
-    form.appendChild(createHiddenInput('phone', phone));
-    form.appendChild(createHiddenInput('email', email));
-    form.appendChild(createHiddenInput('total_tickets', totalTickets));
-    form.appendChild(createHiddenInput('repaired_tickets', repairedTickets));
-    form.appendChild(createHiddenInput('closed_tickets', closedTickets));
-    form.appendChild(createHiddenInput('in_progress_tickets', inProgressTickets));
-    form.appendChild(createHiddenInput('formattedDateRange', formattedDateRange));  // Send the formatted date range
-    
-    // Set the target to open the form result in a new tab
-    form.target = '_blank';
-
-    // Append the form to the document body
-    document.body.appendChild(form);
-
-    // Submit the form, which will open the PDF in a new tab
-    form.submit();
-
-    // Clean up: Remove the form after submission
-    document.body.removeChild(form);
+    // Open the overlay
+    document.getElementById("myNav").style.height = "100%";
 }
-
-// Function to create hidden input fields
-function createHiddenInput(name, value) {
-    var input = document.createElement('input');
-    input.type = 'hidden';
-    input.name = name;
-    input.value = value;
-    return input;
-}
-
 
 function closeOverlay() {
-    document.getElementById('overlay').style.display = 'none';
+    document.getElementById("myNav").style.height = "0%";
 }
+
+
+// Get the datetime input element
+const datetimeInput = document.getElementById('datetime_req');
+
+// Add an event listener to the input element
+datetimeInput.addEventListener('input', () => {
+  // Get the value of the input element
+  const datetimeValue = datetimeInput.value;
+
+  // Format the time as AM/PM
+  const formattedTime = new Date(datetimeValue).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true });
+
+  // Update the input element with the formatted time
+  datetimeInput.value = formattedTime;
+});
+
+window.onload = function() {
+    // Get current date
+    var today = new Date();
+    
+    // Array of month names
+    var monthNames = [
+        "January", "February", "March", "April", "May", "June", 
+        "July", "August", "September", "October", "November", "December"
+    ];
+    
+    // Get the formatted date as Month / Day / Year
+    var formattedDate = monthNames[today.getMonth()] + " / " + today.getDate() + " / " + today.getFullYear();
+    
+    // Set the value of the input field to today's formatted date
+    document.getElementById('date_today').value = formattedDate;
+};
+
 </script>
 
+<footer class="footer">
+    <h2 class="footer-title">@ All Rights Reserved @</h2>
+</footer>
 
 </body>
-</html>
+</php>
 
-<footer class="footer">
-    @ All Rights Reserved @
-</footer>
+
 

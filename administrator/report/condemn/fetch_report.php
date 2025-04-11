@@ -2,37 +2,34 @@
 // fetch_report.php
 include '../db_conn.php';  // Include your DB connection file
 
-// Check if both startDate and endDate are set and not empty
-if (isset($_POST['start_date'], $_POST['end_date'], $_POST['technician_name']) &&
-    !empty($_POST['start_date']) && !empty($_POST['end_date']) && !empty($_POST['technician_name'])) {
+// Check if the ticket_number is set
+if (isset($_GET['ticket_number'])) {
+    $ticket_number = $_GET['ticket_number'];
 
-    // Get the date range and technician name from the POST parameters
-    $startDate = $_POST['start_date'];
-    $endDate = $_POST['end_date'];
-    $technicianName = $_POST['technician_name'];
+    // Prepare SQL query to select data based on ticket_number
+    $stmt = $conn->prepare("SELECT serial_number, unit, category, office, COUNT(serial_number) AS ticket_count
+                            FROM ticket
+                            WHERE serial_number = ?
+                            GROUP BY serial_number, unit, category, office");
 
-    // Query to fetch ticket statistics based on date range and assigned technician name
-    $sql = "SELECT 
-                COUNT(*) AS totalTickets,
-                SUM(CASE WHEN status = 'Repaired' THEN 1 ELSE 0 END) AS repairedTickets,
-                SUM(CASE WHEN status = 'Closed' THEN 1 ELSE 0 END) AS closedTickets,
-                SUM(CASE WHEN status = 'In Progress' THEN 1 ELSE 0 END) AS inProgressTickets
-            FROM ticket
-            WHERE datetime_req BETWEEN ? AND ?
-            AND assigned_name = ?";
-
-    // Prepare and execute the query
-    $stmt = $conn->prepare($sql);
-    $stmt->bind_param('sss', $startDate, $endDate, $technicianName);
+    // Bind ticket_number to the prepared statement
+    $stmt->bind_param("s", $ticket_number);
+    
+    // Execute the query
     $stmt->execute();
     $result = $stmt->get_result();
 
-    // Fetch the data
-    $data = $result->fetch_assoc();
-
-    // Return the data as a JSON response
-    echo json_encode($data);
+    // Check if the query returned any result
+    if ($result->num_rows > 0) {
+        // Fetch the ticket details
+        $ticket_details = $result->fetch_assoc();
+        // Return the ticket details as JSON
+        echo json_encode($ticket_details);
+    } else {
+        // If no result, return an error message
+        echo json_encode(['error' => 'No data found for the provided ticket number.']);
+    }
 } else {
-    echo json_encode(['error' => 'Invalid or missing parameters.']);
+    echo json_encode(['error' => 'Invalid or missing ticket number.']);
 }
 ?>
